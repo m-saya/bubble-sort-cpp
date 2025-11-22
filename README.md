@@ -18,3 +18,8 @@ It helped me understand:
 
 ## How to compile
 You can compile the program using g++:
+g++ bubble_sort.cpp -o bubble
+./bubble
+
+## Notes
+This is a beginner-level project aimed at practicing fundamental concepts.
